@@ -1,0 +1,45 @@
+[
+    {
+        "title": "Pasta alla Carbonara",
+        "ingredients": [
+            "spaghetti",
+            "pecorino cheese",
+            "black pepper corns",
+            "guanciale"
+        ]
+    },
+    {
+        "title": "Pappa al pomodoro",
+        "ingredients": [
+            "Stale bread",
+            "onion",
+            "olive oil",
+            "pelati tomatoes",
+            "fresh basil",
+            "salt"
+        ]
+    },
+    {
+        "title": "Risotto ai funghi",
+        "ingredients": [
+            "Rice",
+            "veg stock",
+            "porcini mushrooms",
+            "parsley",
+            "salt",
+            "parmiggiano reggiano cheese"
+        ]
+    },
+    {
+        "title": "Pasta al pesto",
+        "ingredients": [
+            "olio extravergine d'oliva",
+            "spaghetti",
+            "basilico",
+            "aglio",
+            "pinoli",
+            "pecorino",
+            "parmiggiano reggiano"
+        ]
+    }
+]
